@@ -1,0 +1,5 @@
+Link per accesso sito: http://pippo.netsons.org/wp-admin
+
+Credenziali
+Nome utente   Tommaso
+Password       root
